@@ -1,0 +1,90 @@
+body .gist .highlight {
+    background-color: #161616;
+}
+body .gist .blob-num,
+body .gist .blob-code-inner,
+body .gist .pl-st {
+    color: #e6e1dc;
+}
+body .gist .pl-c,
+body .gist .pl-c span {
+    color: #555;
+    font-style: italic;
+}
+body .gist .pl-mb {
+    color: #1edafb;
+    font-weight: 700;
+}
+body .gist .pl-mh .pl-en {
+    color: #fdc251;
+    font-weight: 700;
+}
+body .gist .pl-mi {
+    color: #00698f;
+    font-style: italic;
+}
+body .gist .pl-mq {
+    color: #555;
+}
+body .gist .pl-sc {
+    color: #999;
+}
+body .gist .pl-c1,
+body .gist .pl-mh,
+body .gist .pl-sr .pl-cce {
+    color: #fdc251;
+}
+body .gist .pl-e,
+body .gist .pl-en,
+body .gist .pl-ent,
+body .gist .pl-s,
+body .gist .pl-v,
+body .gist .pl-vpf {
+    color: #974;
+}
+body .gist .pl-k,
+body .gist .pl-mdh,
+body .gist .pl-mdr,
+body .gist .pl-ml,
+body .gist .pl-mm,
+body .gist .pl-mo,
+body .gist .pl-mp,
+body .gist .pl-mr,
+body .gist .pl-ms,
+body .gist .pl-s1 .pl-v,
+body .gist .pl-s3 {
+    color: #00698f;
+}
+body .gist .pl-pds,
+body .gist .pl-s1,
+body .gist .pl-s1 .pl-pse .pl-s2 {
+    color: #58c554;
+}
+body .gist .pl-s1 .pl-s2,
+body .gist .pl-sv {
+    color: #1edafb;
+}
+body .gist .pl-smi,
+body .gist .pl-smp,
+body .gist .pl-stj,
+body .gist .pl-vo {
+    color: #be53e6;
+}
+body .gist .pl-sr,
+body .gist .pl-sr .pl-sra,
+body .gist .pl-sr .pl-sre,
+body .gist .pl-src {
+    color: #ff308f;
+}
+body .gist .pl-mi1,
+body .gist .pl-mdht {
+    color: #fff;
+    background: rgba(0, 64, 0, .5);
+}
+body .gist .pl-md,
+body .gist .pl-mdhf,
+body .gist .pl-id,
+body .gist .pl-ii {
+    color: #fff;
+    background: #900;
+}

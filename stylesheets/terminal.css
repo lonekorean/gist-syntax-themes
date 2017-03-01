@@ -1,0 +1,103 @@
+body .gist .highlight {
+    background-color: #000;
+}
+body .gist .blob-num,
+body .gist .blob-code-inner,
+body .gist .pl-en,
+body .gist .pl-sc,
+body .gist .highlight-source-css .pl-k,
+body .gist .highlight-source-css .pl-ent {
+    color: #dedede;
+}
+body .gist .pl-c,
+body .gist .pl-c span {
+    color: #ff4500;
+    font-style: italic;
+}
+body .gist .pl-mb {
+    color: #e78c45;
+    font-weight: 700;
+}
+body .gist .pl-mh .pl-en {
+    color: #b9ca4a;
+    font-weight: 700;
+}
+body .gist .pl-mi {
+    color: #ff6347;
+    font-style: italic;
+}
+body .gist .pl-mq {
+    color: #ff4500;
+}
+body .gist .pl-id {
+    color: #ced2cf;
+    background: #b798bf;
+}
+body .gist .pl-ii {
+    color: #ff0;
+    background: red;
+}
+body .gist .highlight-source-js .pl-k {
+    color: #ff1493;
+}
+body .gist .pl-c1,
+body .gist .pl-s1 .pl-pse .pl-s2,
+body .gist .pl-sv,
+body .gist .pl-vpf {
+    color: #e78c45;
+}
+body .gist .pl-e,
+body .gist .pl-s3,
+body .gist .pl-sr,
+body .gist .pl-sr .pl-sra,
+body .gist .pl-sr .pl-sre,
+body .gist .pl-src,
+body .gist .pl-v,
+body .gist .highlight-text-html-basic .pl-ent,
+body .gist .highlight-text-html-php .pl-vo {
+    color: #d54e53;
+}
+body .gist .pl-ent,
+body .gist .pl-k,
+body .gist .pl-mdh,
+body .gist .pl-mdr,
+body .gist .pl-ml,
+body .gist .pl-mm,
+body .gist .pl-mo,
+body .gist .pl-mp,
+body .gist .pl-mr,
+body .gist .pl-ms,
+body .gist .pl-s,
+body .gist .pl-s1 .pl-v,
+body .gist .pl-st {
+    color: #ff6347;
+}
+body .gist .pl-mh,
+body .gist .pl-pds,
+body .gist .pl-s1,
+body .gist .pl-sr .pl-cce {
+    color: #b9ca4a;
+}
+body .gist .pl-s1 .pl-s2,
+body .gist .pl-smi,
+body .gist .pl-smp,
+body .gist .pl-stj,
+body .gist .pl-vo,
+body .gist .highlight-text-html-php .pl-s3,
+body .gist .highlight-source-python .pl-s3 {
+    color: #7aa6da;
+}
+body .gist .pl-mi1,
+body .gist .pl-mdht {
+    color: #dedede;
+    background: rgba(0, 64, 0, .5);
+}
+body .gist .pl-md,
+body .gist .pl-mdhf {
+    color: #dedede;
+    background: red;
+}
+body .gist .highlight-source-css .pl-s3,
+body .gist .highlight-source-css .pl-sc {
+    color: #e7c547;
+}
