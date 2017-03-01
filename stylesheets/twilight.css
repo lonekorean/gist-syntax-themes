@@ -20,24 +20,24 @@ body .gist .pl-s {
     color: #f9ee98;
 }
 body .gist .pl-ib {
-    background-color: #f93;
+    background: #f93;
 }
 body .gist .pl-id {
-    background-color: #a31515;
+    background: #a31515;
     color: #fff;
 }
 body .gist .pl-ii {
-    background-color: #df5000;
+    background: #df5000;
     color: #fff;
 }
 body .gist .pl-iu {
-    background-color: #b4b7b4;
+    background: #b4b7b4;
 }
 body .gist .pl-mo {
     color: #969896;
 }
 body .gist .pl-ms1 {
-    background-color: #f5f5f5;
+    background: #f5f5f5;
 }
 body .gist .pl-c,
 body .gist .pl-c span,

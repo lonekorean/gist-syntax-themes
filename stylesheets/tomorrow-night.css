@@ -1,5 +1,5 @@
 body .gist .highlight {
-    background-color: #1d1f21;
+    background: #1d1f21;
 }
 body .gist .blob-num,
 body .gist .blob-code-inner {
@@ -20,7 +20,7 @@ body .gist .pl-mdr {
     font-weight: 400;
 }
 body .gist .pl-ms1 {
-    background-color: #c5c8c6;
+    background: #c5c8c6;
 }
 body .gist .pl-c,
 body .gist .pl-c span,
@@ -140,10 +140,10 @@ body .gist .pl-mdi {
 }
 body .gist .pl-ib,
 body .gist .pl-iu {
-    background-color: #c66;
+    background: #c66;
 }
 body .gist .pl-id,
 body .gist .pl-ii {
-    background-color: #c66;
+    background: #c66;
     color: #fff;
 }

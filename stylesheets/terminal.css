@@ -1,5 +1,5 @@
 body .gist .highlight {
-    background-color: #000;
+    background: #000;
 }
 body .gist .blob-num,
 body .gist .blob-code-inner,
