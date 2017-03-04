@@ -1,5 +1,15 @@
 # gist-syntax-themes
-Collection of syntax theme stylesheets for GitHub Gists.
+Collection of syntax theme stylesheets for GitHub Gists. Check out <a href="https://lonekorean.github.io/gist-syntax-themes/">these previews</a> to see what they look like.
+
+### Usage
+
+Find the stylesheet you like, save it, add a reference in your page.
+
+``` css
+<link href="/stylesheets/whatever.css" rel="stylesheet">
+```
+
+That's pretty much it. Any embedded Gists on that page will be styled accordingly.
 
 ### License
 
