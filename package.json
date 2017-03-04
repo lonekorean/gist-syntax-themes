@@ -1,0 +1,24 @@
+{
+  "name": "gist-syntax-themes",
+  "version": "1.0.0",
+  "description": "Collection of syntax theme stylesheets for GitHub Gists.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lonekorean/gist-syntax-themes.git"
+  },
+  "keywords": [
+    "gist",
+    "theme",
+    "stylesheet",
+    "syntax"
+  ],
+  "author": "Will Boyd <will@codersblock.com> (http://codersblock.com)",
+  "license": "CC-BY-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/lonekorean/gist-syntax-themes/issues"
+  },
+  "homepage": "https://github.com/lonekorean/gist-syntax-themes"
+}

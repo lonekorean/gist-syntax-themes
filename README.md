@@ -3,13 +3,7 @@ Collection of syntax theme stylesheets for GitHub Gists. Check out <a href="http
 
 ### Usage
 
-Find the stylesheet you like, save it, add a reference in your page.
-
-``` css
-<link href="/stylesheets/whatever.css" rel="stylesheet">
-```
-
-That's pretty much it. Any embedded Gists on that page will be styled accordingly.
+Find the stylesheet you like, save it, add a reference in your page. Any embedded Gists on that page will be styled accordingly.
 
 ### License
 
