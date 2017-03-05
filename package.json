@@ -1,6 +1,6 @@
 {
   "name": "gist-syntax-themes",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Collection of syntax theme stylesheets for GitHub Gists.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
