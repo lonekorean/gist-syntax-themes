@@ -1,5 +1,5 @@
 # gist-syntax-themes
-Collection of syntax theme stylesheets for GitHub Gists. Check out <a href="https://lonekorean.github.io/gist-syntax-themes/">these previews</a> to see what they look like.
+Collection of syntax theme stylesheets for GitHub Gists. You can <a href="https://lonekorean.github.io/gist-syntax-themes/">see previews here</a>.
 
 ### Usage
 
