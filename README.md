@@ -1,6 +1,6 @@
 # gist-syntax-themes
 
-Drop-in stylesheets that change the syntax highlighting color theme of GitHub Gists. You can <a href="https://lonekorean.github.io/gist-syntax-themes/">see previews here</a>.
+Drop-in stylesheets that change the syntax highlighting color theme of GitHub Gists on your site. You can **[see previews here](https://lonekorean.github.io/gist-syntax-themes/)**.
 
 ### Usage
 
